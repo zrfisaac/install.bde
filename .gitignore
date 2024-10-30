@@ -1,0 +1,14 @@
+# [ zrfisaac ]
+
+# [ about ]
+# - author : Isaac Santana
+# . - email : zrfisaac@gmail.com
+# . - site : zrfisaac.github.io
+
+# [ gitignore ]
+
+# : - output
+Output/*.exe
+
+# : - zrfisaac
+_*
