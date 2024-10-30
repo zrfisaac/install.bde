@@ -12,9 +12,9 @@
 
 [//]: # (# - title)
 
-# <img src="Resources\Program Files (x86)\Common Files\Borland Shared\BDE\bdeadmin.ico" alt="Logo" width="32" height="32"> BDE [![](https://img.shields.io/badge/release-5.2.0.2-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20241030/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
+# <img src="Resources\Program Files (x86)\Common Files\Borland Shared\BDE\bdeadmin.ico" alt="Logo" width="32" height="32"> BDE [![](https://img.shields.io/badge/release-5.2.0.2-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/install.bde/releases/download/d20241030/BDE.5.2.0.2.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
 
-[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20241030/BDE.5.2.0.2.exe)
+[![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logoColor=white)](https://github.com/zrfisaac/install.bde/releases/download/d20241030/BDE.5.2.0.2.exe)
 
 O BDE (Banco de Dados Embarcado) era uma tecnologia fundamentalmente integrada ao ambiente de desenvolvimento Delphi. Ele fornecia um conjunto de componentes e drivers para facilitar a conexão, acesso e gerenciamento de bancos de dados em aplicativos Delphi. Isso incluía suporte para bancos de dados relacionais, como o Paradox e o dBASE, além de permitir a criação de aplicativos de gerenciamento de dados robustos. No entanto, o BDE foi descontinuado devido à sua obsolescência e substituído por abordagens mais modernas de acesso a dados, como o uso de componentes ADO (ActiveX Data Objects) ou tecnologias ORM (Object-Relational Mapping). Portanto, é importante estar ciente de que o BDE não é mais uma escolha recomendada para novos projetos de desenvolvimento de software em Delphi.
 
