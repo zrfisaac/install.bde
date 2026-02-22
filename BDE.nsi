@@ -13,7 +13,7 @@
 
 ; # - Geral
 Name "BDE 26.2.22.1"
-OutFile "Output\BDE 26.2.22.1.exe"
+OutFile "Output\bde-26.2.22.1.exe"
 Unicode True
 InstallDir "$PROGRAMFILES\Common Files\Borland Shared\BDE"
 InstallDirRegKey HKLM "SOFTWARE\BDE" ""

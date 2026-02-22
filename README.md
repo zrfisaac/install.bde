@@ -12,7 +12,7 @@
 
 [//]: # (# - title)
 
-# <img src="Resources\Program Files (x86)\Common Files\Borland Shared\BDE\bdeadmin.ico" alt="Logo" width="32" height="32"> BDE [![](https://img.shields.io/badge/release-26.2.22.1-blue?style=flat-square&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.26.2.22.1.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
+# <img src="Resources\Program Files (x86)\Common Files\Borland Shared\BDE\bdeadmin.ico" alt="Logo" width="32" height="32"> BDE [![](https://github.com/zrfisaac/install.bde/releases/download/v26.2.22.1/bde-26.2.22.1.exe) [![](https://img.shields.io/badge/patreon-$-ff69b4?logo=patreon&style=flat-square&logoColor=white)](https://www.patreon.com/zrfisaac) [![](https://img.shields.io/badge/ko--fi-$-ff69b4?logo=kofi&style=flat-square&logoColor=white)](https://ko-fi.com/zrfisaac)
 
 [![](https://img.shields.io/badge/-DOWNLOAD-239063?style=for-the-badge&logo=windows95&logoColor=white)](https://github.com/zrfisaac/BDE/releases/download/d20230925/BDE.26.2.22.1.exe)
 
